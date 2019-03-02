@@ -1,0 +1,5 @@
+file
+edit
+format
+view
+help
